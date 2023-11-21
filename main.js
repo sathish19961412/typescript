@@ -1,4 +1,5 @@
-function log(message) {
-    console.log(message);
+function test() {
+    console.log('Welcome Back');
 }
-log("Hello World");
+
+test()
